@@ -1,0 +1,26 @@
+{
+  "gr_upper": 0.26497319503334565,
+  "gr_middle": 0.32538803128542954,
+  "gr_lower": 0.4096387736812249,
+  "sym_dev": 0.01893260038780696,
+  "eye_ratio": 0.18501281026168814,
+  "gap_ratio": 1.608164706754123,
+  "mouth_ratio": 0.3542819604705823,
+  "shape_ratio": 1.1741356999735424,
+  "eye_aspect": 0.38874871255395854,
+  "brow_arch": 0.07009042161997563,
+  "brow_eye_gap": 0.13504881717417344,
+  "nose_width_ratio": 0.27318086740931713,
+  "nose_length_ratio": 0.34599504312361834,
+  "lip_ratio": 0.6175438129428764,
+  "upper_lip_thickness": 0.050015755732333,
+  "lower_lip_thickness": 0.08099142876030971,
+  "jaw_angle": 118.5761263140883,
+  "cheek_ratio": 1.0497007751489462,
+  "philtrum_ratio": 0.0973377696133631,
+  "_meta": {
+    "source": "27083447_YJW_0769.jpg",
+    "gender": "male",
+    "note": "남자 gold standard"
+  }
+}

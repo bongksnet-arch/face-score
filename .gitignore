@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+face.jpg
+face_result.jpg
+face_scored.jpg
+.DS_Store
+.streamlit/secrets.toml
+# 이미지 파일은 배포 안 함 (gold_face_*.json 만 있으면 채점 가능)
+27083447_YJW_0769.jpg
+images.jpeg
+ideal_face_reference.png
+# 학습 산출물
+scut_fbp5500/
+scut_embeddings.npz
+hf_cache/
+*.log
+metrics.csv
+reference_metrics.csv
+faces/

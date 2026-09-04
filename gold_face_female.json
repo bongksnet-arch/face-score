@@ -1,0 +1,26 @@
+{
+  "gr_upper": 0.2714127945597838,
+  "gr_middle": 0.3391908541025099,
+  "gr_lower": 0.3893963513377064,
+  "sym_dev": 0.010830945413887884,
+  "eye_ratio": 0.19296797872776444,
+  "gap_ratio": 1.5022971548249342,
+  "mouth_ratio": 0.32703533308184124,
+  "shape_ratio": 1.19115195319593,
+  "eye_aspect": 0.42190702827579435,
+  "brow_arch": 0.08396507237674578,
+  "brow_eye_gap": 0.1691226313140028,
+  "nose_width_ratio": 0.2602683045612097,
+  "nose_length_ratio": 0.3556140642185974,
+  "lip_ratio": 0.8069625929714236,
+  "upper_lip_thickness": 0.0629740403230094,
+  "lower_lip_thickness": 0.07803836370050857,
+  "jaw_angle": 122.55216079128593,
+  "cheek_ratio": 1.035076596591775,
+  "philtrum_ratio": 0.08113651392998278,
+  "_meta": {
+    "source": "images.jpeg",
+    "note": "사용자 지정 gold standard (100점 기준)",
+    "gender": "female"
+  }
+}

@@ -1,0 +1,10 @@
+# 로컬 개발/학습 전체 스택 (Streamlit Cloud 1GB 한도 초과라 클라우드엔 배포 안 함)
+-r requirements.txt
+insightface==1.0.1
+onnxruntime
+scikit-learn
+scikit-image
+scipy
+huggingface_hub
+datasets
+pyarrow
